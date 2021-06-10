@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sabitubilikis.github.io/csb-g0vxu/static/css/main.83bd70cc.chunk.css",
+    "main.js": "https://sabitubilikis.github.io/csb-g0vxu/static/js/main.e0053a67.chunk.js",
+    "main.js.map": "https://sabitubilikis.github.io/csb-g0vxu/static/js/main.e0053a67.chunk.js.map",
+    "runtime-main.js": "https://sabitubilikis.github.io/csb-g0vxu/static/js/runtime-main.8ce66b84.js",
+    "runtime-main.js.map": "https://sabitubilikis.github.io/csb-g0vxu/static/js/runtime-main.8ce66b84.js.map",
+    "static/js/2.375a463c.chunk.js": "https://sabitubilikis.github.io/csb-g0vxu/static/js/2.375a463c.chunk.js",
+    "static/js/2.375a463c.chunk.js.map": "https://sabitubilikis.github.io/csb-g0vxu/static/js/2.375a463c.chunk.js.map",
+    "index.html": "https://sabitubilikis.github.io/csb-g0vxu/index.html",
+    "static/css/main.83bd70cc.chunk.css.map": "https://sabitubilikis.github.io/csb-g0vxu/static/css/main.83bd70cc.chunk.css.map",
+    "static/js/2.375a463c.chunk.js.LICENSE.txt": "https://sabitubilikis.github.io/csb-g0vxu/static/js/2.375a463c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ce66b84.js",
+    "static/js/2.375a463c.chunk.js",
+    "static/css/main.83bd70cc.chunk.css",
+    "static/js/main.e0053a67.chunk.js"
+  ]
+}
